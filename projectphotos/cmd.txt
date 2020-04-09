@@ -1,0 +1,5 @@
+ÅÀ³æ¿ªÆôµÄÃüÁî
+scrapy runspider ncss.py
+
+
+lpush newjob https://job.ncss.cn/student/jobs/jobslist/ajax/?jobType=&areaCode=&jobName=&monthPay=&industrySectors=&property=&categoryCode=01&offset=1&limit=10&keyUnits=

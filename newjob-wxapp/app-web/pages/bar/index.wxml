@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="dom-bar">
+    <ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="{{ ecBar }}"></ec-canvas>
+  </view>
+  <view class="dom-line">
+    <ec-canvas id="mychart-dom-line" canvas-id="mychart-line" ec="{{ ecLine }}"></ec-canvas>
+  </view>
+  <view class="dom-scalepie">
+    <ec-canvas id="mychart-dom-scalepie" canvas-id="mychart-scalepie" ec="{{ ecScalepie }}"></ec-canvas>
+  </view>
+  <view class="dom-propertypie">
+    <ec-canvas id="mychart-dom-propertypie" canvas-id="mychart-propertypie" ec="{{ ecPropertypie }}"></ec-canvas>
+  </view>
+</view>

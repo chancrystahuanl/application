@@ -1,0 +1,15 @@
+.dom-bar {
+  background: white;width:300px; height: 300px;
+}
+
+.dom-line {
+  background: white;width:300px; height: 300px;
+}
+
+.dom-scalepie {
+background: white;width:300px; height: 300px;
+}
+
+.dom-propertypie {
+background: white;width:300px; height: 300px;
+}
